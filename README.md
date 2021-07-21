@@ -12,7 +12,6 @@ This project contains a designed network for an institution with several subnets
  
 - The IP Base feature set includes advanced quality of service (QoS), rate limiting, access control lists (ACLs), and basic static and Routing Information Protocol (RIP) functions.
 
--The network comprises of data centers with necessary security features and support. 
 
 # Devies Used
  Routers
